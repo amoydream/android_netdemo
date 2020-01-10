@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:3:5-37
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:5:5-30
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:4:5-32
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+application
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:11:5-32:19
+	android:label
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:15:9-40
+activity#com.example.ttxnetdemo.MainActivity
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:21:27-74
+receiver#com.example.ttxnetdemo.MainActivity$MessageReceiver
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:24:9-29:14
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:24:19-85
+intent-filter#action:name:net.babelstar.MESSAGE_RECEIVED_LIVE+action:name:net.babelstar.MESSAGE_RECEIVED_TTS
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:25:7-28:23
+action#net.babelstar.MESSAGE_RECEIVED_LIVE
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:26:11-71
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:26:19-69
+action#net.babelstar.MESSAGE_RECEIVED_TTS
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:27:11-70
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:27:19-68
+uses-permission#android.permission.CAMERA
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:34:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:35:5-60
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:35:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:36:5-70
+	android:name
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml:36:19-67
+uses-sdk
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+		ADDED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
+		INJECTED from E:\project\mobile\androidstudio\ttxnetdemo\trunck\AndroidManifest.xml
